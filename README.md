@@ -2,6 +2,14 @@
 
 > Atividade acadêmica de Realidade Aumentada desenvolvida para a Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe.
 
+## Demonstração
+
+Acesse a aplicação através do GitHub Pages:
+
+**[🚀 Acessar o Manual Interativo de RA](https://marcosvxn.github.io/Aula-RA_ManualCNC/)**
+
+> Para utilizar a experiência, acesse pelo celular e permita o acesso à câmera.
+
 ## Sobre o projeto
 
 Este projeto consiste no desenvolvimento de uma aplicação de **Realidade Aumentada (RA)** voltada à apresentação de informações sobre um torno CNC.
@@ -69,7 +77,7 @@ Os pontos interativos são posicionados de acordo com coordenadas relacionadas a
 ## Estrutura do projeto
 
 ```text
-RA-Manual-Interativo-Torno-CNC/
+Aula-RA_ManualCNC/
 │
 ├── assets/
 │   └── targets/
@@ -89,7 +97,7 @@ RA-Manual-Interativo-Torno-CNC/
 
 Para executar o projeto, é necessário utilizar um ambiente que permita o acesso à câmera do dispositivo.
 
-O projeto pode ser disponibilizado através do **GitHub Pages** ou executado em um servidor local com suporte a HTTPS.
+O projeto está disponível através do **GitHub Pages**.
 
 Após acessar a aplicação:
 
